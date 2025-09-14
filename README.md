@@ -2,6 +2,8 @@
 
 This repository contains demos related to client-side (in-browser) AI.
 
+Jer demos at https://hpssjellis.github.io/web-ai-demos/public
+
 ## List of demos
 
 Some of these demos use [Chrome built-in AI](https://developer.chrome.com/docs/ai/built-in). 
